@@ -25,7 +25,7 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Laravel](https://img.shields.io/badge/-Laravel-563D7C?style=flat-square&logo=)
 
-### DevOps & Cloud Tools:
+### Version Control:
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
