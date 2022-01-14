@@ -32,6 +32,6 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 
 ## 📈 Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayush8923&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush3&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush8923&theme=tokyonight" />
 </p>
