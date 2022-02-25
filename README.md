@@ -4,7 +4,15 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 
 [![Linkedin Badge](https://img.shields.io/badge/-ayuuniyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayu-uniyal-31b230217/)](https://www.linkedin.com/in/ayu-uniyal-31b230217/)
 [![Instagram Badge](https://img.shields.io/badge/-ayu.uniyal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ayu.uniyal/)](https://www.instagram.com/ayu.uniyal/)
-[![Gmail Badge](https://img.shields.io/badge/-ayuuniyal7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayuuniyal7@gmail.com)](mailto:ayuuniyal7@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-ayuuniyal7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayuuniyal7@gmail.com)](mailto:ayuuniyal7@gmail.com)
+
+### :newspaper: Blog Posts
+
+
+
+### :computer: Work
+
+- [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 
 
 [![Uniyal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush8923&theme=xcode)](https://git.io/Ayush8923)  
@@ -29,6 +37,7 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 
 ## 📈 Stats
 <p align="center">
