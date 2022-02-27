@@ -15,7 +15,7 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 
 
-[![Uniyal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush&theme=xcode)](https://git.io/Ayush8923)  
+[![Uniyal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush8923&theme=xcode)](https://git.io/Ayush8923)  
 
 
 ## ⚡ Technologies
