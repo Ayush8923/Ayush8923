@@ -7,6 +7,7 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 [![Gmail Badge](https://img.shields.io/badge/-ayuuniyal7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayuuniyal7@gmail.com)](mailto:ayuuniyal7@gmail.com)
 
 ### :newspaper: Blog Posts
+- [My Internship Experience at ColoredCow](https://medium.com/@ayuuniyal7/my-internship-experience-at-colordcow-1fd9c848f8ef)
 
 
 
