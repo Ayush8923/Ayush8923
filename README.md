@@ -11,7 +11,7 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 
 
 
-### :computer: Work
+### :computer: Works
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 
