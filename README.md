@@ -40,7 +40,7 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
 
-<!-- ### 🏆 GitHub Trophie
+<!-- ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayush8923&margin-w=15)](https://github.com/Ayush8923/github-profile-trophy) -->
 
