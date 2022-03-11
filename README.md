@@ -19,7 +19,7 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 [![Uniyal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush8923&theme=xcode)](https://git.io/Ayush8923)  
 
 
-## ⚡ Technologie
+## ⚡ Technologies
 
 ### Language :
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
