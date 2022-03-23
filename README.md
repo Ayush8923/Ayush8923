@@ -1,4 +1,5 @@
 ## Hi, I am Ayush! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC Institute of Hydropower Engineering & Technology](https://thdcihet.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ayuuniyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayu-uniyal-31b230217/)](https://www.linkedin.com/in/ayu-uniyal-31b230217/)
