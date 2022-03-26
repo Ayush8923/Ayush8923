@@ -10,7 +10,6 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 - [My Internship Experience at ColoredCow](https://medium.com/@ayuuniyal7/my-internship-experience-at-colordcow-1fd9c848f8ef)
 
 
-
 ### :computer: Work
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
