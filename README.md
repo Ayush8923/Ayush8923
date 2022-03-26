@@ -9,7 +9,6 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 ### :newspaper: Blog Posts
 - [My Internship Experience at ColoredCow](https://medium.com/@ayuuniyal7/my-internship-experience-at-colordcow-1fd9c848f8ef)
 
-
 ### :computer: Work
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
@@ -55,3 +54,4 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=Ayush8923&show_icons=true&theme=vue" width = 400> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush8923&theme=tokyonight" />
 </p>
+
