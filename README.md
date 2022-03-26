@@ -16,7 +16,6 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 
 [![Uniyal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush8923&theme=xcode)](https://git.io/Ayush8923)  
 
-
 ## ⚡ Technologies
 
 ### Language :
@@ -54,4 +53,3 @@ I am Ayush Uniyal, currently pursuing my B.Tech in computer science from [THDC I
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=Ayush8923&show_icons=true&theme=vue" width = 400> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush8923&theme=tokyonight" />
 </p>
-
