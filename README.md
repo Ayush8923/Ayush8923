@@ -2,7 +2,7 @@
 
 I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ayuuniyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayu-uniyal-31b230217/)](https://www.linkedin.com/in/ayu-uniyal-31b230217/)
+[![Linkedin Badge](https://img.shields.io/badge/-ayuuniyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-uniyal-31b230217/)](https://www.linkedin.com/in/ayush-uniyal-31b230217/)
 [![Instagram Badge](https://img.shields.io/badge/-ayu.uniyal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ayu.uniyal/)](https://www.instagram.com/ayu.uniyal/)
 [![Gmail Badge](https://img.shields.io/badge/-ayuuniyal7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayuuniyal7@gmail.com)](mailto:ayuuniyal7@gmail.com)
 
