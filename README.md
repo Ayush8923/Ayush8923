@@ -25,13 +25,14 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayush8923&margin-w=15)](https://github.com/Ayush8923/github-profile-trophy) -->
 
-## &#x1f4c8; GitHub Stats
+## 🏆GitHub Trophies
 <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Ayush8923&row=4&theme=onedark&no-frame=true"/>
     </a>
 </div>
 
+# 📊GitHub Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayush8923&show_icons=true&theme=tokyonight" />
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=Ayush8923&show_icons=true&theme=vue" width = 400> -->
