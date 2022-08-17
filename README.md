@@ -45,6 +45,5 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 # 📊GitHub Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayush8923&show_icons=true&theme=tokyonight" />
-<!--   <img src = "https://github-readme-stats.vercel.app/api?username=Ayush8923&show_icons=true&theme=vue" width = 400> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush8923&theme=tokyonight" />
 </p>
