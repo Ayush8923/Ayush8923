@@ -15,7 +15,8 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 ### :computer: Work
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
-
+ - **CII** - Confederation of Indian Industry
+ -  I’m currently working on **PMG(Project Monitoring Group)**
 
 [![Uniyal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush8923&theme=xcode)](https://git.io/Ayush8923)  
 
