@@ -5,8 +5,9 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 📫 How to reach me: Email - ayush.uniyal@coloredcow.in
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayu.uniyal)
-[![Linkedin Badge](https://img.shields.io/badge/-ayuuniyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-uniyal-31b230217/)](https://www.linkedin.com/in/ayush-uniyal-31b230217/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayu.uniyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-uniyal-31b230217/)](https://www.linkedin.com/in/ayush-uniyal-31b230217/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush8923/)
 
 ### :newspaper: Blog Posts
 - [My Internship Experience at ColoredCow](https://medium.com/@ayuuniyal7/my-internship-experience-at-colordcow-1fd9c848f8ef)
