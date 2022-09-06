@@ -23,6 +23,8 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![c](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-%2320232a.svg?style=for-the-badge&logo=cypress&logoColor=%black)
+
 
 # 💻Terminal
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
