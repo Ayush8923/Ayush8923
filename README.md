@@ -24,6 +24,7 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![c](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-%2320232a.svg?style=for-the-badge&logo=cypress&logoColor=%black)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 # 💻Terminal
