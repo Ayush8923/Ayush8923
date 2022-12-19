@@ -9,6 +9,8 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-uniyal-31b230217/)](https://www.linkedin.com/in/ayush-uniyal-31b230217/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush8923/)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayush8923&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush Uniyal" /> </p>
+
 ### :newspaper: Blog Posts
 - [My Internship Experience at ColoredCow](https://medium.com/@ayuuniyal7/my-internship-experience-at-colordcow-1fd9c848f8ef)
 
