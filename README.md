@@ -16,6 +16,7 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 
 ### :newspaper: Blog Posts
 - [My Internship Experience at ColoredCow](https://medium.com/@ayuuniyal7/my-internship-experience-at-colordcow-1fd9c848f8ef)
+- [CII Sustainable Development 🌎](https://sustainabledevelopment.in/brands/sustainability-summit/)
 
 ### :computer: Work
 
