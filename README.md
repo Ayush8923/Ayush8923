@@ -13,7 +13,7 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 
 
 <!-- [![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush8923&theme=react-dark)](https://github.com/Ayush8923/github-readme-activity-graph) -->
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush8923&theme=github-compact)](https://github.com/Ayush8923/github-readme-activity-graph)
+[![Ayush github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush8923&theme=merko)](https://github.com/Ayush8923/github-readme-activity-graph)
 
 ### :newspaper: Blog Posts
 - [My Internship Experience at ColoredCow](https://medium.com/@ayuuniyal7/my-internship-experience-at-colordcow-1fd9c848f8ef)
