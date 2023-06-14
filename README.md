@@ -12,7 +12,8 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayush8923&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush Uniyal" /> </p>
 
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush8923&theme=react-dark)](https://github.com/Ayush8923/github-readme-activity-graph)
+<!-- [![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush8923&theme=react-dark)](https://github.com/Ayush8923/github-readme-activity-graph) -->
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush8923&theme=github-compact)](https://github.com/Ayush8923/github-readme-activity-graph)
 
 ### :newspaper: Blog Posts
 - [My Internship Experience at ColoredCow](https://medium.com/@ayuuniyal7/my-internship-experience-at-colordcow-1fd9c848f8ef)
