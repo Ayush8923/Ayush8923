@@ -2,7 +2,7 @@
 
 I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-📫 How to reach me: Email - ayuuniyal7@gmail.com
+<!-- 📫 How to reach me: Email - ayush.uniyal@coloredcow.in -->
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayu.uniyal)
