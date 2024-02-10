@@ -23,10 +23,10 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 
 I have worked as a software developer. Although though I work on private projects the most of the time, I actively contribute to and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow).
 
-- [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations 
-<!-- - [CII Sustainable Development 🌎](https://sustainabledevelopment.in/brands/sustainability-summit/) -->
+- [CII Sustainable Development 🌎](https://sustainabledevelopment.in/brands/sustainability-summit/)
 
 ### :computer: Open Source Project
+- [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations 
 - [Flask Admin](https://github.com/Gramhal-Foundation/flask_admin) - A lightweight flask package for the admin dashboard
 
 # 💻Tech Stack
