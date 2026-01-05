@@ -5,7 +5,7 @@ I am Ayush Uniyal, I am a tech enthusiast & an open-source advocate. I am always
 <!-- 📫 How to reach me: Email - ayush.uniyal@coloredcow.in -->
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayu.uniyal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayuuniyal89/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-uniyal-31b230217/)](https://www.linkedin.com/in/ayush-uniyal-31b230217/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush8923/)
 
