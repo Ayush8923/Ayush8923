@@ -30,6 +30,7 @@ Finding meaningful solutions in a scalable way.
 - [Mentor Together](https://mentortogether.org/)
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations 
 - [Flask Admin](https://github.com/Gramhal-Foundation/flask_admin) - A lightweight flask package for the admin dashboard
+- [Aam Digital](https://github.com/aam-Digital/) - Aam Digital is an easy-to-use case management software for the social sector that improves the effectiveness and transparency of work with beneficiaries in the field.
 - [Kaapi](https://github.com/ProjectTech4DevAI/kaapi-backend) - Responsible AI Infra for the development sector
 
 # 💻Tech Stack
